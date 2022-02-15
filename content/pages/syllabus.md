@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fae8df7-209e-321a-e453-264c3d63e1a2
 ---
@@ -114,13 +116,13 @@ Calendar
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 SES #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 KEY DATES
 {{< thclose >}}
 

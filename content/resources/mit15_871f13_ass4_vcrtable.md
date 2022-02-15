@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource file contains information regarding calibration parameters
   table.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-871-introduction-to-system-dynamics-fall-2013/143bded856d3aef818d77b9ca70d2e8e_MIT15_871F13_ass4_VCRtable.pdf
+file: /media/courses/15-871-introduction-to-system-dynamics-fall-2013/143bded856d3aef818d77b9ca70d2e8e_MIT15_871F13_ass4_VCRtable.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment 4: Calibration Parameters Table - 15.871 Fall 2013'
 uid: 143bded8-56d3-aef8-18d7-7b9ca70d2e8e

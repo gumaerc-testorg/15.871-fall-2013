@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource file contains information regarding how to load data into
   vensim.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-871-introduction-to-system-dynamics-fall-2013/3431dbd07fb93dadff52b7fc9bc62e8e_MIT15_871F13_ass3_hwtoload.pdf
+file: /media/courses/15-871-introduction-to-system-dynamics-fall-2013/3431dbd07fb93dadff52b7fc9bc62e8e_MIT15_871F13_ass3_hwtoload.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment 3: How to Load Data into Vensim - 15.871 Fall 2013'
 uid: 3431dbd0-7fb9-3dad-ff52-b7fc9bc62e8e

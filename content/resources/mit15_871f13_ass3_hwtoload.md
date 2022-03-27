@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 112e5bd4-207b-9f8a-7e21-68d0eb184f06
 resourcetype: Document
 title: 'Assignment 3: How to Load Data into Vensim - 15.871 Fall 2013'
 uid: 3431dbd0-7fb9-3dad-ff52-b7fc9bc62e8e

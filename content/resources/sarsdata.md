@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 112e5bd4-207b-9f8a-7e21-68d0eb184f06
 resourcetype: Other
 title: SARSDATA.vdf
 uid: 2a0146cf-2385-fedf-414c-8bcb775c0738

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 112e5bd4-207b-9f8a-7e21-68d0eb184f06
 resourcetype: Other
 title: VCR_data.vdf
 uid: 5ddcc8e0-0467-c7fd-b3f6-aa343f9abef0

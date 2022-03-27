@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 112e5bd4-207b-9f8a-7e21-68d0eb184f06
 resourcetype: Document
 title: 'Assignment 4: Calibration Parameters Table - 15.871 Fall 2013'
 uid: 143bded8-56d3-aef8-18d7-7b9ca70d2e8e

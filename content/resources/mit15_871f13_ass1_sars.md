@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 112e5bd4-207b-9f8a-7e21-68d0eb184f06
 resourcetype: Document
 title: 'Assignment 1: SARS Tutorial - 15.871 Fall 2013'
 uid: 2e6209a7-6111-6366-d600-d78c92791793

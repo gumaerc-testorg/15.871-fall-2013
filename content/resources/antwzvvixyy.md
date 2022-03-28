@@ -5,6 +5,7 @@ file: /media/courses/15-871-introduction-to-system-dynamics-fall-2013/f3f5b71e17
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: f3f5b71e-17f6-ce1d-f116-f51de7470f0a

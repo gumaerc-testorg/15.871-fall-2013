@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 6199f8e7-db61-6ed4-44c1-3e48b937ae4c
 ---
@@ -12,7 +13,7 @@ Course Overview
 
 This page focuses on the course _15.871 Introduction to System Dynamics_ as it was taught by John Sterman and Hazhir Rahmandad in Fall 2013.
 
-_15.871 Introduction to System Dynamics_ is a half-semester introductory course. Students can take _15.871_ alone, or combine it with [_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013/). Taken in sequence the courses constitute the introductory sequence in system dynamics. Successful completion of both _15.871_ and _15.872_ is a prerequisite for advanced courses in system dynamics, work as a research or teaching assistant in the field, or careers using system dynamics.
+_15.871 Introduction to System Dynamics_ is a half-semester introductory course. Students can take _15.871_ alone, or combine it with [_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013). Taken in sequence the courses constitute the introductory sequence in system dynamics. Successful completion of both _15.871_ and _15.872_ is a prerequisite for advanced courses in system dynamics, work as a research or teaching assistant in the field, or careers using system dynamics.
 
 During this first half of the semester, 2 class sections were taught by John Sterman and Hazhir Rahmandad, and 2 additional sections for Sloan Fellows were taught simultaneously by Nelson Repenning. 6 teaching assistants worked as a team to cover all 4 sections over the semester.
 
@@ -89,5 +90,5 @@ In Class
 Out of Class
 ------------
 
-*   Weekly [readings]({{< baseurl >}}/pages/readings) in preparation for class
-*   Six [assignments]({{< baseurl >}}/pages/assignments) making use of modeling software
+*   Weekly {{< resource_link d95607c9-ffe7-0176-0022-8040194db1cf "readings" >}} in preparation for class
+*   Six {{< resource_link 112e5bd4-207b-9f8a-7e21-68d0eb184f06 "assignments" >}} making use of modeling software

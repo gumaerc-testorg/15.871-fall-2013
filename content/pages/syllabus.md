@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 8fae8df7-209e-321a-e453-264c3d63e1a2
 ---
@@ -42,7 +43,7 @@ Course Materials
 The required text is:  
 Sterman, J. _Business Dynamics: Systems Thinking and Modeling for a Complex World_. McGraw-Hill / Irwin, 2000. ISBN: 9780072389159.
 
-There are additional required readings. Articles and case studies as assigned will be listed in the [Readings]({{< baseurl >}}/pages/readings) section. Additional readings will be handed out on an occasional basis.
+There are additional required readings. Articles and case studies as assigned will be listed in the {{< resource_link d95607c9-ffe7-0176-0022-8040194db1cf "Readings" >}} section. Additional readings will be handed out on an occasional basis.
 
 Modeling Software
 -----------------

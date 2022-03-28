@@ -5,6 +5,7 @@ file: /media/courses/15-871-introduction-to-system-dynamics-fall-2013/e0261866c8
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: e0261866-c8bd-f3b7-529c-dbe6b2469569

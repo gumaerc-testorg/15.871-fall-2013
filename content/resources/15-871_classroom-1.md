@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-871-introduction-to-system-dynamics-fall-2013/b9d8c604fe04893892d989748ae321a8_15-871_classroom-1.jpg
+file: /courses/15-871-introduction-to-system-dynamics-fall-2013/b9d8c604fe04893892d989748ae321a8_15-871_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

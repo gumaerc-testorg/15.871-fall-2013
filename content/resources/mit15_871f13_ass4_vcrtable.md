@@ -6,6 +6,7 @@ file: /courses/15-871-introduction-to-system-dynamics-fall-2013/143bded856d3aef8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 4: Calibration Parameters Table - 15.871 Fall 2013'
 uid: 143bded8-56d3-aef8-18d7-7b9ca70d2e8e
 ---
 This resource file contains information regarding calibration parameters table.
-

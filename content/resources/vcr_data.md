@@ -5,6 +5,7 @@ file: /courses/15-871-introduction-to-system-dynamics-fall-2013/5ddcc8e00467c7fd
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: VCR_data.vdf
 uid: 5ddcc8e0-0467-c7fd-b3f6-aa343f9abef0
 ---
 This is a special file that contains information regarding vcr data.
-

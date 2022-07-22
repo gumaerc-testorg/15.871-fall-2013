@@ -5,6 +5,7 @@ file: /courses/15-871-introduction-to-system-dynamics-fall-2013/2e6209a761116366
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 1: SARS Tutorial - 15.871 Fall 2013'
 uid: 2e6209a7-6111-6366-d600-d78c92791793
 ---
 This resource file contains information regarding sars tutorial.
-

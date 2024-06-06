@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding vcr data.
 file: /courses/15-871-introduction-to-system-dynamics-fall-2013/5ddcc8e00467c7fdb3f6aa343f9abef0_VCR_data.vdf
+file_size: 3637
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

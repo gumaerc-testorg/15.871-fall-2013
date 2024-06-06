@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding sars tutorial.
 file: /courses/15-871-introduction-to-system-dynamics-fall-2013/2e6209a761116366d600d78c92791793_MIT15_871F13_ass1_SARS.pdf
+file_size: 1531183
 file_type: application/pdf
 learning_resource_types:
 - Assignments

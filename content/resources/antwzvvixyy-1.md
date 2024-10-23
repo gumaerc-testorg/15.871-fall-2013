@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-871-introduction-to-system-dynamics-fall-2013/e0261866c8bdf3b7529cdbe6b2469569_AnTwZVviXyY.pdf
+file: /ol-ocw-studio-app/courses/15-871-introduction-to-system-dynamics-fall-2013/e0261866c8bdf3b7529cdbe6b2469569_AnTwZVviXyY.pdf
 file_size: 41593
 file_type: application/pdf
 learning_resource_types: []

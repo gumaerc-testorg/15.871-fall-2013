@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding how to load data into
   vensim.
-file: /courses/15-871-introduction-to-system-dynamics-fall-2013/3431dbd07fb93dadff52b7fc9bc62e8e_MIT15_871F13_ass3_hwtoload.pdf
+file: /ol-ocw-studio-app/courses/15-871-introduction-to-system-dynamics-fall-2013/3431dbd07fb93dadff52b7fc9bc62e8e_MIT15_871F13_ass3_hwtoload.pdf
 file_size: 316027
 file_type: application/pdf
 learning_resource_types:

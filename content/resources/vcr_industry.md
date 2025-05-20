@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding vcr industry.
-file: /ol-ocw-studio-app/courses/15-871-introduction-to-system-dynamics-fall-2013/ef8230ddc10d44be0d1699f2ddebc5fc_VCR_Industry.mdl
+file: /courses/15-871-introduction-to-system-dynamics-fall-2013/ef8230ddc10d44be0d1699f2ddebc5fc_VCR_Industry.mdl
 file_size: 27446
 file_type: application/octet-stream
 learning_resource_types:

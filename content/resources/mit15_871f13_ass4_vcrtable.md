@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding calibration parameters
   table.
-file: /ol-ocw-studio-app/courses/15-871-introduction-to-system-dynamics-fall-2013/143bded856d3aef818d77b9ca70d2e8e_MIT15_871F13_ass4_VCRtable.pdf
+file: /courses/15-871-introduction-to-system-dynamics-fall-2013/143bded856d3aef818d77b9ca70d2e8e_MIT15_871F13_ass4_VCRtable.pdf
 file_size: 71990
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding sarsdata.
-file: /courses/15-871-introduction-to-system-dynamics-fall-2013/2a0146cf2385fedf414c8bcb775c0738_SARSDATA.vdf
+file: /ol-ocw-studio-app/courses/15-871-introduction-to-system-dynamics-fall-2013/2a0146cf2385fedf414c8bcb775c0738_SARSDATA.vdf
 file_size: 4155
 file_type: application/octet-stream
 learning_resource_types:
